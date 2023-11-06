@@ -25,6 +25,8 @@ Developed By: Dhivyapriya.R
 
 Reg.No.: 212222230032
 
+```
+
 import numpy as np
 
 import math
@@ -89,6 +91,7 @@ plt.ylabel('y-data')
 
 plt.legend(['Regression Line','Data points'])
 
+```
 
 # Output :
 
