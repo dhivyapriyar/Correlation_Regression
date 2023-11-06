@@ -92,6 +92,7 @@ plt.legend(['Regression Line','Data points'])
 
 # Output :
 
+![prob 3](https://github.com/dhivyapriyar/Correlation_Regression/assets/119477552/60d64f97-5e94-45c7-880d-dc402baf1cad)
 
 # Result
 
